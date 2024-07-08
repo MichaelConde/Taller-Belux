@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+nav{
+    background-color: #1E172F;
+    display: flex;
+    justify-content: space-around;
+
+}
+.option{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+#option{
+    margin-left: 5vh;
+}
+#option1
+{
+    margin-left: 5vh;
+    background: linear-gradient(to right, rgb(149, 42, 250), rgb(50, 98, 255));
+    padding: 10px;
+    border-radius: 1vh;
+}
