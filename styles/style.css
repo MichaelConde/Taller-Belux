@@ -250,3 +250,22 @@ padding-bottom: 1vh;
     font-size: larger;
     background-color: #2E2550;
   }
+
+  footer{
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 80px;
+    margin-right: 100px;
+}
+#textfoot{
+    padding: 5vh;
+}
+#redes{
+    max-height: 20px;
+    margin-left: 2vh;
+}
+#imgfoot{
+   display: flex;
+}
