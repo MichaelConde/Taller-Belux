@@ -136,3 +136,117 @@ nav{
     color: #F41486;
     font-size: 2.5vh;
 }
+#informationplans{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1E172F;
+}
+#tittlepricing{
+    font-size: 5vh;
+    color: white;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+.informationpricing{
+    color: white;
+    max-width: 80vh;
+    text-align: center;
+}
+#section3{
+    background-color: #1E172F;
+    padding-bottom: 10vh;
+
+}
+#lite{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 40vh;
+    border-radius: 10px;
+    align-items: center;
+}
+#tarjet{
+    display: flex;
+    justify-content: center;
+    gap: 10vh;
+    padding-top: 15vh;
+}
+.imgpricing{
+    max-width: 10vh;
+    padding-top: 5vh;
+}
+#nameplans{
+    font-size: 4vh;
+}
+.pricing{
+    background-color: #F5F5F5;
+    font-size: 2vh;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.pricing2{
+    background-color: #F5F5F5;
+    font-size: 2vh;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+#prng{
+    font-size: 5vh;
+    margin-right: 1vh;
+}
+#listprng {
+  padding-top: 2vh;
+    list-style-type: none;
+  }
+  
+  #listprng #objprng {
+    padding-left: 4rem;
+    padding-right: 6rem;
+    background-image: url(../assets/img/icons8-marca-de-verificacion-24.png);
+    background-position: 0 0;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+  }
+  #listprng #objprng1 {
+    padding-left: 4rem;
+    padding-right: 6rem;
+    background-image: url(../assets/img/icons8-estrella-24_1.png);
+    background-position: 0 0;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    
+  }
+  #listprng #objprng2 {
+    padding-left: 4rem;
+    padding-right: 6rem;
+    background-image: url(../assets/img/icons8-x-50.png);
+    background-position: 0 0;
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+  }
+  #infpricing{
+    max-width: 25vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+  }
+  #btnbuy {
+    display: flex;
+    justify-content: center;
+padding-top: 1vh;
+padding-bottom: 1vh;
+    display: flex;
+    background-color: #F5F5F5;
+    width: 100%;
+    border-radius: 10px;
+}
+  .btnbuy{
+    border-radius: 5px;
+    width: 20vh;
+    height: 5vh;
+    color: white;
+    font-size: larger;
+    background-color: #2E2550;
+  }
